@@ -124,7 +124,7 @@ Partial Class Form1
         Me.Controls.Add(Me.btnClear)
         Me.Controls.Add(Me.btnCalcualteMPG)
         Me.Name = "Form1"
-        Me.Text = "Form1"
+        Me.Text = "Miles Per Gallon Calculator"
         Me.ResumeLayout(False)
         Me.PerformLayout()
 

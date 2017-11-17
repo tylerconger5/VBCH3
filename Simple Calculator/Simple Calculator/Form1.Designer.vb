@@ -201,7 +201,7 @@ Partial Class Form1
         Me.Controls.Add(Me.lblOperation)
         Me.Controls.Add(Me.Label1)
         Me.Name = "Form1"
-        Me.Text = "Form1"
+        Me.Text = "Simple Calculator "
         Me.ResumeLayout(False)
         Me.PerformLayout()
 
